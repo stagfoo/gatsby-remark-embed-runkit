@@ -2,7 +2,7 @@
   "license": "MIT",
   "version": "1.0.1",
   "name": "gatsby-remark-embed-runkit",
-  "description": "Gatsby remark gists preprocessor",
+  "description": "Gatsby remark runkit embed preprocessor",
   "author": {
     "name": "Alexander King",
     "email": "alexanderddking@gmail.com"
